@@ -1,0 +1,1 @@
+Basic blank file structure for building Shopify Liquid themes.
